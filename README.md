@@ -31,4 +31,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0006-zigzag-conversion/) | Medium |
 <!---LeetCode Topics End-->
