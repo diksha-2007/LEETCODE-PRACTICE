@@ -39,11 +39,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0006-zigzag-conversion/) | Medium |
+| [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0009-palindrome-number/) | Easy |
+| [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Binary Search
@@ -62,4 +64,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
