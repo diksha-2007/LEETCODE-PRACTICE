@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Two Pointers
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0009-palindrome-number/) | Easy |
+| [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -71,5 +74,18 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
