@@ -17,6 +17,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
@@ -46,6 +47,7 @@
 | [0001-two-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0001-two-sum/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Dynamic Programming
@@ -85,6 +87,7 @@
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -129,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +162,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->
