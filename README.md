@@ -24,6 +24,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@
 | [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Binary Search
