@@ -20,6 +20,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -52,6 +53,7 @@
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -97,6 +99,7 @@
 | ------- | ------- |
 | [0704-binary-search](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0704-binary-search/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3488-closest-equal-element-queries](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
