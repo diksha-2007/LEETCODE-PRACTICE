@@ -13,6 +13,7 @@
 | [0704-binary-search](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0704-binary-search/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -160,6 +161,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Matrix
@@ -206,4 +208,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 <!---LeetCode Topics End-->
