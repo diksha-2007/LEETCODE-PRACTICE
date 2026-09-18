@@ -46,6 +46,7 @@
 | [0016-3sum-closest](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -59,6 +60,7 @@
 | [0001-two-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0001-two-sum/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -86,6 +88,7 @@
 | [0115-distinct-subsequences](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -137,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
