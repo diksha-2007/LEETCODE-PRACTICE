@@ -25,6 +25,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -110,6 +111,7 @@
 | [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
