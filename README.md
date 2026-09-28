@@ -91,6 +91,7 @@
 | [0006-zigzag-conversion](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0115-distinct-subsequences/) | Hard |
+| [0796-rotate-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -196,6 +197,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
