@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0704-binary-search](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0704-binary-search/) | Easy |
@@ -41,6 +42,7 @@
 | [0015-3sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -50,6 +52,7 @@
 | [0015-3sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0912-sort-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0912-sort-an-array/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -271,4 +274,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0912-sort-an-array/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
