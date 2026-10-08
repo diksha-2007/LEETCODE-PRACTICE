@@ -99,6 +99,7 @@
 | [0796-rotate-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -211,6 +212,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
@@ -218,6 +220,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Counting
