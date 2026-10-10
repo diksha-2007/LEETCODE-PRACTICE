@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0066-plus-one](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -137,6 +138,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0066-plus-one/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0231-power-of-two](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0268-missing-number/) | Easy |
