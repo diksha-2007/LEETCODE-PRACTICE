@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0283-move-zeroes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0912-sort-an-array/) | Medium |
@@ -57,6 +58,7 @@
 | [0018-4sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0912-sort-an-array/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -278,10 +280,12 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0912-sort-an-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Merge Sort
@@ -312,4 +316,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0509-fibonacci-number/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
