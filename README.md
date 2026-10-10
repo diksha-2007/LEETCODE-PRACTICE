@@ -87,6 +87,7 @@
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0509-fibonacci-number/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -125,6 +126,7 @@
 | [0007-reverse-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0009-palindrome-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0509-fibonacci-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0509-fibonacci-number/) | Easy |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
@@ -253,6 +255,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -295,4 +298,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0075-sort-colors/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
