@@ -127,6 +127,7 @@
 | [0009-palindrome-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0009-palindrome-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0231-power-of-two](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0509-fibonacci-number/) | Easy |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
@@ -154,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0342-power-of-four/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -258,6 +260,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Depth-First Search
