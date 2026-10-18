@@ -89,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0012-integer-to-roman/) | Medium |
 | [0169-majority-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0268-missing-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -121,6 +122,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0006-zigzag-conversion/) | Medium |
+| [0012-integer-to-roman](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0796-rotate-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0796-rotate-string/) | Easy |
@@ -147,6 +149,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0066-plus-one/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0231-power-of-two](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0231-power-of-two/) | Easy |
