@@ -59,6 +59,7 @@
 | [0075-sort-colors](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Sorting
@@ -129,6 +130,7 @@
 | [0013-roman-to-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0115-distinct-subsequences/) | Hard |
+| [0344-reverse-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0940-distinct-subsequences-ii/) | Hard |
