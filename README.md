@@ -25,6 +25,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -74,6 +75,7 @@
 | [0506-relative-ranks](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0506-relative-ranks/) | Easy |
 | [0912-sort-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0912-sort-an-array/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -183,6 +185,7 @@
 | [0704-binary-search](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0704-binary-search/) | Easy |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -213,6 +216,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -233,6 +237,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -257,6 +262,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
