@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0018-4sum/) | Medium |
@@ -128,6 +129,7 @@
 | [0006-zigzag-conversion](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0344-reverse-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0344-reverse-string/) | Easy |
@@ -321,6 +323,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0014-longest-common-prefix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
