@@ -141,6 +141,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -169,6 +170,7 @@
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2409-count-days-spent-together](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2409-count-days-spent-together/) | Easy |
@@ -221,6 +223,7 @@
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
