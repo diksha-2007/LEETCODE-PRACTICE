@@ -414,4 +414,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
