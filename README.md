@@ -195,6 +195,7 @@
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -348,6 +349,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -419,6 +421,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
