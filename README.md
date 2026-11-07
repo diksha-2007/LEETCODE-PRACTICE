@@ -50,6 +50,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -139,6 +140,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +198,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -225,6 +228,7 @@
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Combinatorics
@@ -350,6 +354,7 @@
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -422,6 +427,7 @@
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
