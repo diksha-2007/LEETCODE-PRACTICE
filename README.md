@@ -47,6 +47,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -312,6 +313,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -326,6 +328,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +441,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,4 +464,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0175-combine-two-tables/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
