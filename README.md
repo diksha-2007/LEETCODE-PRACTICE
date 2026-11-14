@@ -199,6 +199,7 @@
 | [0342-power-of-four](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0509-fibonacci-number/) | Easy |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
+| [1344-angle-between-hands-of-a-clock](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1903-largest-odd-number-in-string/) | Easy |
