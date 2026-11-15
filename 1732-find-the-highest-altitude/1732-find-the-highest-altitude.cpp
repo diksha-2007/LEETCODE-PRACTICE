@@ -1,17 +1,17 @@
-
 class Solution {
 public:
     int largestAltitude(vector<int>& gain) {
+        int currentAltitude = 0;
+        // Highest altitude currently is 0.
+        int highestPoint = currentAltitude;
         
-        int sum = 0;
-        int maxi = 0;
-
-        for(int i = 0; i < gain.size(); i++) {
-            sum += gain[i];
-
-            maxi = max(maxi, sum);
+        for (int altitudeGain : gain) {
+            // Adding the gain in altitude to the current altitude.
+            currentAltitude += altitudeGain;
+            // Update the highest altitude.
+            highestPoint = max(highestPoint, currentAltitude);
         }
-
-        return maxi;
+        
+        return highestPoint;
     }
 };
