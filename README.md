@@ -80,6 +80,7 @@
 | [0344-reverse-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -151,6 +152,7 @@
 | [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -184,6 +186,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
