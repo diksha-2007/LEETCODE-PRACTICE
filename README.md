@@ -159,6 +159,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3693-climbing-stairs-ii/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +304,7 @@
 | [1872-stone-game-viii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1872-stone-game-viii/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Zero-Sum Game
