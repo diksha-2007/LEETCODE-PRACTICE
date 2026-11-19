@@ -41,6 +41,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -101,6 +102,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -277,6 +279,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
