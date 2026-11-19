@@ -63,6 +63,7 @@
 | [3693-climbing-stairs-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -139,6 +140,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -307,6 +309,7 @@
 | [2485-find-the-pivot-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Zero-Sum Game
@@ -368,6 +371,7 @@
 | [0169-majority-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +416,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0912-sort-an-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,6 +430,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0912-sort-an-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,6 +473,7 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
