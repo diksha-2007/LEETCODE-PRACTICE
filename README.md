@@ -160,6 +160,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +228,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
