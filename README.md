@@ -132,6 +132,7 @@
 | [0013-roman-to-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0268-missing-number/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -188,6 +189,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -348,6 +350,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2747-count-zero-request-servers/) | Medium |
