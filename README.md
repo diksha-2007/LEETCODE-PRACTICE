@@ -52,6 +52,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -140,6 +141,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -206,6 +208,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -418,6 +421,7 @@
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -498,6 +502,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Search Tree
