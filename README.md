@@ -53,6 +53,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -352,6 +353,7 @@
 | [1267-count-servers-that-communicate](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Sliding Window
@@ -409,6 +411,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Recursion
@@ -451,6 +454,7 @@
 | [0912-sort-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0912-sort-an-array/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -545,4 +549,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
