@@ -47,6 +47,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2747-count-zero-request-servers/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -269,6 +270,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -348,6 +350,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
@@ -356,6 +359,7 @@
 | [1267-count-servers-that-communicate](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -416,6 +420,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -459,6 +464,7 @@
 | [0912-sort-an-array](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/0912-sort-an-array/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Merge Sort
