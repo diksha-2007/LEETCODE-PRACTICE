@@ -56,6 +56,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -244,6 +245,7 @@
 | [2485-find-the-pivot-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -291,6 +293,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +368,7 @@
 | [2747-count-zero-request-servers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## String Matching
@@ -400,6 +404,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
