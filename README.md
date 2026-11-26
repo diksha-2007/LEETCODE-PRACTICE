@@ -126,6 +126,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3360-stone-removal-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -246,6 +247,7 @@
 | [2485-find-the-pivot-integer](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
