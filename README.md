@@ -80,6 +80,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +284,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -583,4 +586,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3620-network-recovery-pathways/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
