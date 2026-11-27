@@ -81,6 +81,7 @@
 | [3903-smallest-stable-index-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +187,7 @@
 | [3693-climbing-stairs-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +328,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/diksha-2007/LEETCODE-PRACTICE/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
